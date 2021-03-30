@@ -1,1 +1,3 @@
-console.log("My first useless package!");
+module.exports = function() {
+	console.log("My first test package!");
+}
