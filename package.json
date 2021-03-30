@@ -1,5 +1,5 @@
 {
-  "name": "npm-training",
+  "name": "npm-training-test",
   "version": "1.0.0",
   "description": "Trying to create a new NPM package from sratch",
   "main": "index.js",
