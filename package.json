@@ -1,0 +1,22 @@
+{
+  "name": "npm-training",
+  "version": "1.0.0",
+  "description": "Trying to create a new NPM package from sratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[D"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shettynishant92/my-npm-package.git"
+  },
+  "keywords": [
+    "traning\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ci"
+  ],
+  "author": "Nishant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shettynishant92/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/shettynishant92/my-npm-package#readme"
+}
